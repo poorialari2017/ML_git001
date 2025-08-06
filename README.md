@@ -8,3 +8,9 @@
 
 
 
+# git status
+
+# git add modified_file_name
+
+# git commit -m "message" 
+# git push
