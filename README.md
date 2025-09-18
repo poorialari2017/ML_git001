@@ -6,7 +6,6 @@
 ![Static Badge](https://img.shields.io/badge/Copyright-A.HK.B-white)
 ![Static Badge](https://img.shields.io/badge/Member%20%231-Pooria%20Lari-blue)
 ![Static Badge](https://img.shields.io/badge/Member%20%232-Reza%20Sibil-red)
-![Static Badge](https://img.shields.io/badge/Course-TechWithHasanAbbasi-black)
 
 ---
 
