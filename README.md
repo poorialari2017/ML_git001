@@ -156,9 +156,9 @@ Commit message tips:
 ---
 
 ## Project Members
-- **Pooria Lari** — Member #1
-- **Reza Sibil** — Member #2
-- **Ayda AZ** — Member #3
+- [**Pooria Lari**](https://github.com/Pooria-Lari) — Member #1
+- [**Reza Ahmadi**](https://github.com/mohyah) — Member #2
+- [**Ayda Ahadzadeh**](https://github.com/aydaahadzadeh83-creator) — Member #3
 
 > *Do your best (FYE).*
 
