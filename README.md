@@ -16,7 +16,7 @@ A collaborative repository for studying and practicing core Machine Learning (ML
 - [Recommended Git Workflow](#recommended-git-workflow)
 - [Contributing](#contributing)
 - [Project Members](#project-members)
-- [License](#license)
+
 
 ---
 
@@ -126,11 +126,6 @@ Commit message tips:
 - **Ayda AZ** — Member #3
 
 > Motto: *Do your best (FYE).*
-
----
-
-## License
-This repository currently does not declare an open‑source license. All rights reserved by the authors (© A.HK.B). If you intend to reuse code, please open an issue to discuss licensing.
 
 ---
 
