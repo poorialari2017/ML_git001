@@ -1,4 +1,4 @@
-# ML_git001 — Machine Learning Study Project
+# ai-learning-path (ML_git001) — AI Study Project
 
 > *“Do your best (FYE).”*
 
